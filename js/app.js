@@ -1,4 +1,4 @@
-import Dialer from "./dialer.js";
+import Dialer from "./dialer.mjs";
 
 
 document.addEventListener("DOMContentLoaded",function ready(){
