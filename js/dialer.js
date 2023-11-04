@@ -27,13 +27,6 @@ function countPaths(startingDigit,hopCount) {
 
 function listAcyclicPaths(startingDigit) {
 	// TODO: given the digit/key to start from,
-	// return a list of the distinct acyclic
-	// paths that are possible to traverse
-	//
-	// e.g. [
-	//   [4, 3, 8, 1, 6, 7, 2, 9],
-	//   [4, 3, 8, 1, 6, 0],
-	//   ...
-	// ]
+
 	return [];
 }
